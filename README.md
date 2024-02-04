@@ -1,7 +1,7 @@
-I'm 19 year from Tugalândia caralhooo 🇵🇹
-1st year BSc in informatics and computer engineer @ FEUP
+- I'm 19 year from Tugalândia caralhooo 🇵🇹
+- 1st year BSc in informatics and computer engineer @ FEUP
 
-Currently learning Python, CSS, PHP, C++, JavaScript ...
+- urrently learning Python, CSS, PHP, C++, JavaScript ...
 
 <!--
 **diogoptx/diogoptx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
