@@ -2,6 +2,7 @@
 1st year BSc in informatics and computer engineer @ FEUP                                                                
 Currently learning Python, CSS, PHP, C++, JavaScript ...
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **diogoptx/diogoptx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
