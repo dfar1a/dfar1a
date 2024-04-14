@@ -1,4 +1,4 @@
-### Hi! I'm 19 year from Tugalândia caralhooo 🇵🇹
+### Hi! I'm 19 year from Tugalândia 🇵🇹
 1st year BSc in informatics and computer engineer @ FEUP                                                                
 Currently learning Python, CSS, PHP, C++, JavaScript ...
 
