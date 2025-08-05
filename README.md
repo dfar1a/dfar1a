@@ -1,6 +1,5 @@
-### Hi! I'm 19 year from Tugalândia 🇵🇹
-2nd year BSc in informatics and computer engineer @ FEUP                                                                
-Currently learning Python, CSS, PHP, C++, JavaScript ...
+### Hi! I'm 20 year from Tugalândia 🇵🇹
+3rd year BSc in informatics and computer engineer @ FEUP                                                                
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
