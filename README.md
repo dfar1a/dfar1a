@@ -1,4 +1,3 @@
-### Hi! I'm 20 year from Tugalândia 🇵🇹
 3rd year BSc in informatics and computer engineer @ FEUP                                                                
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
